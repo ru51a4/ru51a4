@@ -3,7 +3,7 @@
 [![Telegram](https://user-images.githubusercontent.com/31220669/119738122-df881800-be88-11eb-93d5-9fdbf9d44213.png)
 ](https://t.me/ru51a4)  
   
-Я делаю (смотреть онлайн):  
+делаю (смотреть онлайн):  
 ```
 backend:
 -iblockcms MPA+Admin - http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
@@ -19,9 +19,9 @@ algo:
 -scss compiler - http://superscss.surge.sh
 -region-chooser(like direct.yandex) - http://rich-cause.surge.sh
 ```  
-Я пишу (читать онлайн):
+пишу (читать онлайн):
 ```
 server-queryselector aka парсим html в nodejs - https://habr.com/ru/articles/703010/
 ```   
-Я использую: Docker, Angular2+, Laravel, БУС, golang(entry) 
+использую: Docker, Angular2+, Laravel, БУС, golang(entry) 
 
