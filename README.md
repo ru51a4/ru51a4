@@ -22,4 +22,6 @@ algo:
 Я пишу (читать онлайн):
 ```
 server-queryselector aka парсим html в nodejs - https://habr.com/ru/articles/703010/
-```
+```  
+Я использую : Docker, Angular2+, Laravel, golang(entry) 
+
