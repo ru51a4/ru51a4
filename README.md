@@ -3,7 +3,7 @@
 [![Telegram](https://user-images.githubusercontent.com/31220669/119738122-df881800-be88-11eb-93d5-9fdbf9d44213.png)
 ](https://t.me/ru51a4)  
   
-Я сделал (смотреть онлайн):  
+Я делаю (смотреть онлайн):  
 ```
 backend:
 -iblockcms MPA+Admin - http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
