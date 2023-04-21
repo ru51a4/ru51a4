@@ -18,7 +18,8 @@ algo:
 -многоуровневое меню - http://spiky-drum.surge.sh/
 -scss compiler - http://superscss.surge.sh
 -region-chooser(like direct.yandex) - http://rich-cause.surge.sh
-еще - https://github.com/ru51a4?tab=repositories
+еще:
+-https://github.com/ru51a4?tab=repositories
 ```  
 Я пишу (читать онлайн):
 ```
