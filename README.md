@@ -23,5 +23,10 @@ algo:
 ```
 server-queryselector aka парсим html в nodejs - https://habr.com/ru/articles/703010/
 ```   
-использую: Docker, Angular2+, Laravel, БУС, golang(entry) 
-
+использую: Docker, Angular2+, Laravel, БУС, golang(entry)  
+  
+  
+achievements : 
+```
+bootstrap(grid), css flexbox, rxjs, jwt, dfs, bfs, json parser, dijkstra, infix_to_postfix, ngrx, EAV, nested set, goroutines, grpc 
+```
