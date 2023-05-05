@@ -27,5 +27,5 @@ server-queryselector aka парсим html в nodejs - https://habr.com/ru/artic
   
   
 achievements : 
-git, bootstrap(grid), css flexbox, rxjs, jwt, dfs, bfs, json parser, dijkstra, infix_to_postfix, ngrx, EAV, mysql json, nested set, goroutines, grpc 
+git, bootstrap(grid), css flexbox, promises, rxjs, jwt, dfs, bfs, json parser, dijkstra, infix_to_postfix, ngrx, EAV, mysql json, nested set, goroutines, grpc 
 
