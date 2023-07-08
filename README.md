@@ -17,7 +17,7 @@ frontend:
 algo:
 -многоуровневое меню - http://spiky-drum.surge.sh/
 -scss compiler - http://superscss.surge.sh
--region-chooser(like direct.yandex) - http://rich-cause.surge.sh
+-region-chooser(like direct.yandex) - http://scandalous-sack.surge.sh
 ```  
 пишу (читать онлайн):
 ```
