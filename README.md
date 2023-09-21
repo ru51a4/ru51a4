@@ -14,6 +14,7 @@ frontend:
 -верстка ИМ (Angular+SCSS) - https://excited-tail.surge.sh/
 -фронт дневничков на ангуляр with ngrx - http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - https://loose-rings.surge.sh/
+-vdom diff lib - http://smart-breath.surge.sh/
 algo:
 -многоуровневое меню - http://spiky-drum.surge.sh/
 -scss compiler - http://superscss.surge.sh
