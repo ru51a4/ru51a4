@@ -11,7 +11,7 @@ backend:
 -laravel crud(дневнички) MPA - http://laraveldiary.1123875-cc97019.tw1.ru/
 -дневнички на БУС - http://1123875-cc97019.tw1.ru/
 frontend:
--верстка ИМ (Angular+SCSS) - https://excited-tail.surge.sh/
+-верстка ИМ (Angular+SCSS) - http://smoggy-sheep.surge.sh
 -фронт дневничков на ангуляр with ngrx - http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - https://loose-rings.surge.sh/
 -vdom diff lib - http://smart-breath.surge.sh/
