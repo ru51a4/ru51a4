@@ -6,7 +6,8 @@ backend:
 -iblockcms MPA+Admin - http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
 -vk_photo_slideshow_gen - https://t.me/vk_slideshow_gen_bot
 -laravel crud(дневнички) MPA - http://laraveldiary.1123875-cc97019.tw1.ru/
--дневнички на БУС - http://1123875-cc97019.tw1.ru/
+-дневнички на БУС - http://1123875-cc97019.tw1.ru/  
+-codegen AR models/migrations - http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
 frontend:
 -верстка ИМ (Angular+SCSS) - http://smoggy-sheep.surge.sh
 -фронт дневничков на ангуляр with ngrx - http://bouncy-pipe.surge.sh
