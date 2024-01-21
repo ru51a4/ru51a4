@@ -12,7 +12,8 @@ frontend:
 -верстка ИМ (Angular+SCSS) - http://smoggy-sheep.surge.sh
 -фронт дневничков на ангуляр with ngrx - http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - https://loose-rings.surge.sh/
--vdom diff lib - http://bright-anger.surge.sh  
+-vdom diff lib - http://minimalreact.surge.sh  
+  
 algo:
 -многоуровневое меню - http://spiky-drum.surge.sh/
 -scss compiler - http://superscss.surge.sh
