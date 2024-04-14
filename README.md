@@ -9,7 +9,7 @@ backend:
 -дневнички на БУС - http://1123875-cc97019.tw1.ru/  
 -codegen AR models/migrations - http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
 frontend:
--верстка ИМ (Angular+SCSS) - http://smoggy-sheep.surge.sh
+-верстка ИМ (Angular+SCSS) - http://zonked-form.surge.sh  
 -фронт дневничков на ангуляр with ngrx - http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - https://loose-rings.surge.sh/
 -vdom diff lib - https://minimal-react-landing.1123875-cc97019.tw1.ru/  
