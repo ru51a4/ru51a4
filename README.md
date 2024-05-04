@@ -4,7 +4,6 @@
 ```
 backend:
 -iblockcms MPA+Admin - http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
--vk_photo_slideshow_gen - https://t.me/vk_slideshow_gen_bot
 -laravel crud(дневнички) MPA - http://laraveldiary.1123875-cc97019.tw1.ru/
 -дневнички на БУС - http://1123875-cc97019.tw1.ru/  
 -codegen AR models/migrations - http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
@@ -15,9 +14,13 @@ frontend:
 -vdom diff lib - https://minimal-react-landing.1123875-cc97019.tw1.ru/  
   
 algo:
+-json render - https://creative-cheesecake-e3f9c9.netlify.app/  
 -многоуровневое меню - http://spiky-drum.surge.sh/
 -scss compiler - http://superscss.surge.sh
 -region-chooser(like direct.yandex) - http://scandalous-sack.surge.sh
+-graph-path-find - https://snazzy-licorice-095360.netlify.app/
+-tsInterfaceCodeGen - https://sparkling-kelpie-328d82.netlify.app/
+-sql parser - https://sql-parser.netlify.app/  
 ```  
 пишу (читать онлайн):
 ```
