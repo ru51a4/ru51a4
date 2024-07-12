@@ -3,14 +3,14 @@
 делаю (смотреть онлайн):  
 ```
 backend:
--iblockcms MPA+Admin - http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
--laravel crud(дневнички) MPA - http://laraveldiary.1123875-cc97019.tw1.ru/
--дневнички на БУС - http://1123875-cc97019.tw1.ru/  
--codegen AR models/migrations - http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
+-iblockcms MPA+Admin - (down) http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
+-laravel crud(дневнички) MPA - (down) http://laraveldiary.1123875-cc97019.tw1.ru/
+-дневнички на БУС - (down) http://1123875-cc97019.tw1.ru/  
+-codegen AR models/migrations - (down) http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
 frontend:
--верстка ИМ (Angular+SCSS) - http://zonked-form.surge.sh  
--фронт дневничков на ангуляр with ngrx - http://bouncy-pipe.surge.sh
--angular2 test task(2020) - https://loose-rings.surge.sh/
+-верстка ИМ (Angular+SCSS) - (down) http://zonked-form.surge.sh  
+-фронт дневничков на ангуляр with ngrx - (dowm) http://bouncy-pipe.surge.sh
+-angular2 test task(2020) - (down) https://loose-rings.surge.sh/
 -vdom diff lib - https://minimal-react-landing.netlify.app/
   
   
