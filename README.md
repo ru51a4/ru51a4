@@ -9,7 +9,7 @@ backend:
 -codegen AR models/migrations - (down) http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
 frontend:
 -верстка ИМ (Angular+SCSS) - (down) http://zonked-form.surge.sh  
--фронт дневничков на ангуляр with ngrx - (dowm) http://bouncy-pipe.surge.sh
+-фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
 -vdom diff lib - https://minimal-react-landing.netlify.app/
   
