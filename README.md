@@ -6,7 +6,7 @@ backend:
 -iblockcms MPA+Admin - (down) http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
 -laravel crud(дневнички) MPA - (down) http://laraveldiary.1123875-cc97019.tw1.ru/
 -дневнички на БУС - (down) http://1123875-cc97019.tw1.ru/  
--codegen AR models/migrations - (down) http://db-codegen.1123875-cc97019.tw1.ru/db-eloquent-codegen
+-codegen AR models/migrations - http://188.120.245.72:8091/
 frontend:
 -верстка ИМ (Angular+SCSS) - (down) http://zonked-form.surge.sh  
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
