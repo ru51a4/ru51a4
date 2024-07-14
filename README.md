@@ -3,7 +3,7 @@
 делаю (смотреть онлайн):  
 ```
 backend:
--iblockcms MPA+Admin - (down) http://iblock.1123875-cc97019.tw1.ru/admin [ru51a4@mail.ru:12345678]
+-iblockcms MPA+Admin - http://188.120.245.72:8082/admin [ru51a4@mail.ru:12345678]
 -laravel crud(дневнички) MPA - (down) http://laraveldiary.1123875-cc97019.tw1.ru/
 -дневнички на БУС - (down) http://1123875-cc97019.tw1.ru/  
 -codegen AR models/migrations - http://188.120.245.72:8091/
