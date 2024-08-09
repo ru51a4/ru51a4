@@ -11,7 +11,7 @@ frontend:
 -верстка ИМ (Angular+SCSS) - (down) http://zonked-form.surge.sh  
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
--vdom diff lib - https://minimal-react-landing.netlify.app/
+-vdom diff lib - http://188.120.245.72:88/  
   
   
 algo:
