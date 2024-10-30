@@ -8,7 +8,7 @@ backend:
 -дневнички на БУС - (down) http://1123875-cc97019.tw1.ru/  
 -codegen AR models/migrations - http://188.120.245.72:8091/
 frontend:
--верстка ИМ (Angular+SCSS) - (down) http://zonked-form.surge.sh  
+-верстка ИМ (Angular+SCSS) - http://188.120.245.72:4444/
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
 -vdom diff lib - http://188.120.245.72:88/  
