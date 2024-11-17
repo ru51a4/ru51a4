@@ -33,3 +33,5 @@ server-queryselector aka парсим html в nodejs - https://habr.com/ru/artic
 achievements : 
 git, bootstrap(grid), css flexbox, promises, rxjs, websocket, jwt, dfs, bfs, json parser, xml parser, sql parser, dijkstra, topological_sort, infix_to_postfix, trie, vdom diff, ngrx, EAV, mysql json, nested set, goroutines, grpc 
 
+
+donate me -> https://boosty.to/minimalreact
