@@ -11,7 +11,7 @@ frontend:
 -верстка ИМ (Angular+SCSS) - http://188.120.245.72:4444/
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
--vdom diff lib - http://188.120.245.72:88/  
+-vdom diff lib - https://rrender.github.io/  
   
   
 algo:
