@@ -21,7 +21,8 @@ algo:
 -region-chooser(like direct.yandex) - http://scandalous-sack.surge.sh
 -graph-path-find - https://snazzy-licorice-095360.netlify.app/
 -tsInterfaceCodeGen - https://sparkling-kelpie-328d82.netlify.app/
--sql parser - https://sql-parser.netlify.app/  
+-sql parser - https://sql-parser.netlify.app/
+-basic rdbms - https://qqdb.netlify.app/
 ```  
 пишу (читать онлайн):
 ```
