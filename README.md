@@ -31,7 +31,7 @@ server-queryselector aka парсим html в nodejs - https://habr.com/ru/artic
 ```   
 использую: Docker, AngularJS/2+, Laravel/Yii(1-2), БУС, golang(entry)  
   
-Интересный факт обо мне: я знаю что такое denwer
+интересный факт обо мне: я знаю что такое denwer
   
 achievements : 
 git, sql, bootstrap(grid), css flexbox, promises, rxjs, websocket, jwt, dfs, bfs, json parser, xml parser, sql parser, basic rdbms engine, dijkstra, topological_sort, infix_to_postfix, trie, vdom diff, ngrx, EAV, JSONB, nested set, goroutines, mutex, grpc 
