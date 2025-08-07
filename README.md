@@ -31,6 +31,7 @@ server-queryselector aka парсим html в nodejs - https://habr.com/ru/artic
 ```   
 использую: Docker, AngularJS/2+, Laravel/Yii(1-2), БУС, golang(entry)  
   
+Интересный факт обо мне: я знаю что такое denwer
   
 achievements : 
 git, sql, bootstrap(grid), css flexbox, promises, rxjs, websocket, jwt, dfs, bfs, json parser, xml parser, sql parser, basic rdbms engine, dijkstra, topological_sort, infix_to_postfix, trie, vdom diff, ngrx, EAV, JSONB, nested set, goroutines, mutex, grpc 
@@ -38,4 +39,3 @@ git, sql, bootstrap(grid), css flexbox, promises, rxjs, websocket, jwt, dfs, bfs
 misc:  
 [![LeetCode user ru51a4qq](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fru51a4qq&logo=leetcode&logoColor=yellow)](https://leetcode.com/ru51a4qq/)
 
-Интересный факт обо мне: я знаю что такое denwer
