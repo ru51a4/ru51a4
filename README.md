@@ -9,6 +9,7 @@ backend:
 -codegen AR models/migrations - http://188.120.245.72:8091/
 frontend:
 -верстка ИМ (Angular+SCSS) - http://188.120.245.72:4444/
+-верстка ИМ(2) (Angular+SCSS) - http://188.120.245.72:4443/
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
 -vdom diff lib - https://rrender.github.io/  
@@ -29,7 +30,7 @@ algo:
 server-queryselector aka парсим html в nodejs - https://habr.com/ru/articles/703010/
 Учебник Принца-полукровки 📚 - https://github.com/ru51a4/programming-guide
 ```   
-использую: Docker, AngularJS/2+, Laravel/Yii(1-2), БУС, golang(entry)  
+использую: Docker, AngularJS/2+, Laravel/Yii(1-2), БУС, golang(entry), cxx(for fun)
   
 интересный факт обо мне: я знаю что такое denwer и dreamweaver
   
