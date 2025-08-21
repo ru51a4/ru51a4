@@ -9,7 +9,7 @@ backend:
 -codegen AR models/migrations - http://188.120.245.72:8091/
 frontend:
 -верстка ИМ (Angular+SCSS) - http://188.120.245.72:4444/
--верстка ИМ(2) (Angular+SCSS) - http://188.120.245.72:4443/
+-верстка ИМ(2) (Angular+SCSS) - https://angular-example-theta.vercel.app/
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
 -vdom diff lib - https://rrender.github.io/  
