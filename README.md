@@ -10,7 +10,7 @@ backend:
 frontend:
 -верстка ИМ (Angular+SCSS) - http://188.120.245.72:4444/
 -верстка ИМ(2) (Angular+SCSS) - https://angular-example-theta.vercel.app/
--angular2 ecommerce frontend + REST API (Angular+SCSS) - http://188.120.245.72:4443/
+-angular2 ecommerce frontend + REST API - http://188.120.245.72:4443/
 -фронт дневничков на ангуляр with ngrx - (down) http://bouncy-pipe.surge.sh
 -angular2 test task(2020) - (down) https://loose-rings.surge.sh/
 -vdom diff lib - https://rrender.github.io/  
