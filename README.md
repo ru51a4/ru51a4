@@ -19,7 +19,7 @@ frontend:
 algo:
 -json render - https://creative-cheesecake-e3f9c9.netlify.app/  
 -многоуровневое меню - http://spiky-drum.surge.sh/
--scss compiler - http://superscss.surge.sh
+-scss compiler - https://amazing-faun-79a83a.netlify.app/
 -region-chooser(like direct.yandex) - http://scandalous-sack.surge.sh
 -graph-path-find - https://snazzy-licorice-095360.netlify.app/
 -tsInterfaceCodeGen - https://sparkling-kelpie-328d82.netlify.app/
