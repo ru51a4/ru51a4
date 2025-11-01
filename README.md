@@ -37,7 +37,7 @@ rrender aka another reactjs clon - https://github.com/ru51a4/programming-guide/b
 интересный факт обо мне: я знаю что такое denwer и dreamweaver
   
 achievements : 
-git, sql, bootstrap(grid), css flexbox, promises, rxjs, websocket, jwt, dfs, bfs, json parser, xml parser, sql parser, basic rdbms engine, dijkstra, topological_sort, infix_to_postfix, trie, vdom diff, ngrx, EAV, JSONB, nested set, goroutines, mutex, grpc 
+git, sql, bootstrap(grid), css flexbox, promises, rxjs, websocket, jwt, dfs, bfs, [json parser](https://github.com/ru51a4/shitjs), xml parser, sql parser, [basic rdbms engine](https://github.com/ru51a4/qqdb), dijkstra, topological_sort, infix_to_postfix, trie, [vdom diff](https://rrender.github.io/), ngrx, EAV, JSONB, nested set, goroutines, mutex, grpc 
 
 [![LeetCode user ru51a4qq](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fru51a4qq&logo=leetcode&logoColor=yellow)](https://leetcode.com/ru51a4qq/)
 
