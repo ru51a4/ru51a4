@@ -21,6 +21,7 @@ algo:
 -многоуровневое меню - http://spiky-drum.surge.sh/
 -scss compiler - https://amazing-faun-79a83a.netlify.app/
 -region-chooser(like direct.yandex) - http://scandalous-sack.surge.sh
+-trie fuzzy search - https://ru51a4.github.io/cities-fuzzy-search-trie/  
 -graph-path-find - https://snazzy-licorice-095360.netlify.app/
 -tsInterfaceCodeGen - https://sparkling-kelpie-328d82.netlify.app/
 -sql parser - https://sql-parser.netlify.app/
